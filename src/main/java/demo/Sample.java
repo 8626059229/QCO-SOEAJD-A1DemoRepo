@@ -5,7 +5,8 @@ public class Sample {
 		System.out.println("Hi this is my first commit");
 		
 		System.out.println("yogitamali");
-		
+		System.out.println("yogit sanjay amali");
+
 	}
 
 }
